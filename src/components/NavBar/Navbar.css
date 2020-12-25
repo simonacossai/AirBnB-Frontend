@@ -1,0 +1,45 @@
+.airbnb-navbar{
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+}
+.navbar-logo{
+    width: 100px;
+    height: 30px;
+    object-fit: contain;
+}
+.nav-user-div{
+    border: 1px solid rgba(128, 128, 128, 0.412)!important;
+    padding: 0;
+    border-radius: 20px;
+    height: fit-content;
+}
+.globe-icon-nav{
+    font-size: 20px;
+    color: rgb(87, 87, 87);
+}
+.nav-link{
+    color: rgb(87, 87, 87)!important;
+}
+.user-icon-nav,
+.hamburger-icon-nav{
+    font-size: 18px;
+    color: rgb(87, 87, 87)!important;
+}
+
+.input-group-navbar{
+    width: 240px;
+    background-color:white;
+    border-radius: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.412);
+}
+
+.form-control-navbar{
+    border: none;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px; 
+    background-color:white;
+}
+.input-group-text-navbar{
+    border: none;
+    border-radius: 100%;
+    background-color: transparent;
+}
